@@ -1,0 +1,13 @@
+B1 open project vào Visual studio, DW, visual code
+
+B2 vào View > Sever Explorer để xem SQL sever
+
+B3 chạy đồ án 
+
+B4 Đăng nhập (xem phần quản lý thành viên trong trang quản lý admin)
+
+ Quản Lý tk: admin - pass: 123456 
+
+ Nhân viên1 tk: staff1 - pass: 123456
+
+ Khách hàng tk: legiahuy - pass: 123456 
